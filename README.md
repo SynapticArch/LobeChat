@@ -460,7 +460,7 @@ This project is [MIT](./LICENSE) licensed.
 [vercel-shield-badge]: https://img.shields.io/website?down_message=offline&label=try%20lobechat&labelColor=black&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
 > [!CAUTION]  
 > This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
-# Statement
+# 免责声明
 
 > [!CAUTION]  
 > 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
